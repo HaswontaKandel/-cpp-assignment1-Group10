@@ -1,0 +1,15 @@
+#include <iostream>
+using namesoace std;
+
+int main (){
+cout <<"=== Cloud Computing ==="
+<<end|<<end|;
+ cout<<"Cloud computing is the practice of delivering computing services"
+  <<"like storage, servers, databases, and applications over the internet "
+  <<"instead of relying on local machines. It allows users to work from"
+  <<"anywhere, scale resources quickly, and avoid the cost of managing "
+  <<"physical hardware. Services such as google docs, office 365, and"
+  <<" Amazon web services are common examples that show how the cloud"
+  <<"turns complex infrastructure into simple, on demand tools."<< end;
+return 0;
+}
